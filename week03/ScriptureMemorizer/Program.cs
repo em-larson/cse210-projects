@@ -1,5 +1,8 @@
 using System;
 
+//The extra mile part of this assignment, allows you to input any scripture that you would like to work on memorizing into the program first.
+//(This would technically act as the first step of memorizing it. Reading and typing it all the way through.)
+
 class Program
 {
     static void Main(string[] args)
