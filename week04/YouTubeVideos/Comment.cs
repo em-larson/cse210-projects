@@ -9,5 +9,8 @@ public class Comment
         _commentText = text;
     }
 
-    //display
+    public string DisplayComment()
+    {
+        return $"{_commenter}: {_commentText}";
+    }
 }
