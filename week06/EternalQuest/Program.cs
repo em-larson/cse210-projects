@@ -1,5 +1,7 @@
 using System;
 
+//extra: I added bonus points when they get the checklist goal completely done. I also added several features to make it more user friendly.
+//These include a check before a person logs out, no added points after a goal is complete.
 class Program
 {
     static void Main(string[] args)
